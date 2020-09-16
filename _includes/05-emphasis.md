@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Languages
+
+Programming languages that I have taken a course in 
+
+- **Python**
+- _Swift_
+- JavaScript
+- Java
+- Html
+- Css
+- PHP
+- SQL
